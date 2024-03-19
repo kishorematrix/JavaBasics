@@ -34,7 +34,8 @@ public class ArrayList1 {
 			System.out.println(i);
 		}
 		System.out.println("Existing for Loop ");
-
+		System.out.println("Existing for Loop1 ");
+		System.out.println("Existing for Loop2 ");
 		cars.remove(0);
 		System.out.println(cars.get(0));
 		cars.clear();
