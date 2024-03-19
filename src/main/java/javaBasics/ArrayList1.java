@@ -41,6 +41,8 @@ public class ArrayList1 {
 		System.out.println(cars.get(0));
 		System.out.println(cars.get(0));
 		System.out.println(cars.get(0));
+		System.out.println(cars.get(0));
+		System.out.println(cars.get(0));
 		////Testing GIT
 		
 		
