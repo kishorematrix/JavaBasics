@@ -53,6 +53,7 @@ public class ArrayList1 {
 		//New change
 		
 		System.out.println("Merge checking");
+		System.out.println("Merge checking 2");
 		cars.clear();
 		System.out.println(cars);
 
