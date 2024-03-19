@@ -50,6 +50,9 @@ public class ArrayList1 {
 		System.out.println(cars.get(0));
 		System.out.println(cars.get(0));
 		System.out.println(cars.get(0));
+		//New change
+		
+		System.out.println("Merge checking");
 		cars.clear();
 		System.out.println(cars);
 
